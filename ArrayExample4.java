@@ -31,6 +31,9 @@ public class ArrayExample4 {
 			System.out.println("The Element of Index" + index + " " + "is: " + number[index]);
 		}
 
+		else{
+			System.out.println("Invalid Input");
+		}
 	}
 
 }
